@@ -16,7 +16,8 @@ function mobile_jquery_form_system_theme_settings_alter(&$form, &$form_state) {
     'b' => t('Blue'),
     'c' => t('White'),
     'd' => t('Grey'),
-    'e' => t('Yellow')
+    'e' => t('Yellow'), 
+    'f' => t('Cuyahoga')
   );
   
   $icon_options = array(
